@@ -1,0 +1,32 @@
+.header, .nav, .footer {
+    width: 800px;
+    height: 70px;
+}
+
+.header {
+    background-color: black;
+}
+
+.nav {
+    background-color: blue;
+}
+
+.footer {
+    background-color: red;
+}
+
+.father {
+    display: flex;
+}
+
+.main {
+    background-color: green;
+    width: 650px;
+    height: 300px;
+}
+
+.aside {
+    background-color: lightyellow;
+    width: 150px;
+    height: 300px;
+}

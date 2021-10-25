@@ -1,0 +1,60 @@
+.container {
+    width: 430px;
+    border: 5px solid rgba(12, 9, 11, 0.97);
+    padding: 5px;
+    margin: 0 auto;
+    background: cornsilk;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction:column;
+
+}
+
+.d-flex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.top{
+    display: flex;
+    column-gap: 10px;
+
+    width: 1000px;
+
+}
+
+.block{
+
+    background: blue;
+    height: 400px;
+    width: 200px;
+
+}
+
+.midle{
+  display: flex;
+    margin-top: 5px;
+
+
+}
+
+.block3{
+    background: blue;
+    height: 200px;
+    width: 420px;
+
+}
+
+.block2{
+    background: blue;
+    height: 200px;
+    width: 200px;
+}
+
+.fulter{
+    display: flex;
+    margin-top: 5px;
+    column-gap: 10px;
+
+}

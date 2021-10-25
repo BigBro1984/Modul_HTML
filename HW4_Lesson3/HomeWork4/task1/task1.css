@@ -1,0 +1,23 @@
+.task {
+    width: 1000px;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+.a {
+    background-color: red;
+    width: 1000px;
+    height: 200px;
+}
+
+.b {
+    background-color: black;
+    width: 800px;
+    height: 400px;
+
+}
+.c{
+    background-color: blue;
+    width: 200px;
+    height: 400px;
+}
