@@ -1,0 +1,40 @@
+h1{
+    text-align: center ;
+}
+img {
+    width: 400px;
+}
+
+p{
+    background: azure;
+    color: black;
+    width: auto;
+}
+
+h2.test {
+    background: darkgray;
+    color: rgba(12,9,11,0.97);
+
+
+}
+
+h3.test {
+
+    background: lightsteelblue;
+    color: rgba(12,9,11,0.97);
+}
+
+ul {
+    background: black;
+    color: red;
+    width: auto;
+
+}
+
+
+
+
+
+
+
+
