@@ -1,0 +1,55 @@
+.header{
+    height: 80px;
+    background: black;
+}
+
+h1.head{
+    color: red;
+    text-align: center ;
+}
+
+.info{
+    background: lavender;
+
+}
+.center-img  {
+    width: 400px;
+    display: block;
+    margin: 0 auto;
+}
+
+h2{
+    color: red;
+    text-align: center ;
+}
+
+.grup{
+    background: black;
+    border-bottom: 3px  solid chartreuse;
+    border-top: 3px  solid chartreuse;
+
+}
+
+.flint{
+    width: 400px;
+    height:  500px;
+    background: slategray;
+    margin:20px 20px 20px 20px ;
+    border: 3px solid red;
+    padding: 20px;
+    display:inline-block;
+    overflow: auto;
+}
+
+h3 {
+    text-align: center
+}
+.grup-img{
+    width: 250px;
+    height: 250px;
+    display: block;
+    margin: 0 auto;
+}
+
+
+
