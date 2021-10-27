@@ -1,0 +1,124 @@
+body {
+    box-sizing: border-box;
+}
+
+.header {
+    height: 400px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main__top {
+    height: 90%;
+    border: 2px solid blue;
+    border-radius: 30px;
+    width: 80%;
+}
+
+.main__top_header {
+    height: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main__top_header-left {
+    width: 100px;
+    height: 10px;
+    background-color: blue;
+    margin-left: 10px;
+    border-radius: 25px;
+}
+
+.main__top_header-right {
+    width: 50px;
+    height: 10px;
+    background-color: blue;
+    margin-left: 10px;
+    border-radius: 25px;
+
+}
+
+.main__top_info {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 40%;
+
+}
+
+
+.main__top_block {
+    background-image: url(https://images11.esquire.ru/upload/img_cache/acf/acfbe9979332a4bab9cec3485f678f61_ce_1080x673x0x0_cropped_960x600.jpg);
+    background-size: cover;
+    height: 150px;
+    width: 200px;
+    border-radius: 35px;
+
+}
+
+.main__top_block:nth-child(1) {
+    margin-left: 0;
+}
+
+.main__top_bottom {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header_pos {
+    margin-top: 20px;
+
+}
+
+
+.footer {
+    display: flex;
+    justify-content: center;
+
+    height: 400px;
+    width: 100%;
+
+}
+
+.footer__block {
+    width: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+.footer__circle {
+    width: 150px;
+    height: 150px;
+    background-color: cornflowerblue;
+    border-radius: 50%;
+    background-size: contain;
+    background-image: url(https://sib.fm/storage/article/February2020/Z0tp5pg7QDhkIZ06GKhM.jpg);
+}
+
+.white {
+    background-color: cornflowerblue;
+    margin-top: 20px;
+}
+
+
+.footer__info_three {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.three {
+    width: 40%;
+    background-color: cornflowerblue;
+    height: 10px;
+    margin-left: 10px;
+    border-radius: 25px;
+}

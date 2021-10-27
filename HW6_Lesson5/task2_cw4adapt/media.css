@@ -1,0 +1,160 @@
+@media screen and (min-width: 0) and (max-width: 576px) {
+
+    .header {
+        display: none;
+    }
+
+    .header__block {
+        display: none;
+
+    }
+
+    .header__bottom_logo {
+        height: 70px;
+        width: 100px;
+        margin-left: 20px;
+    }
+
+    .header__block_bigger {
+        display: none;
+    }
+
+    .header__block:nth-child(4) {
+        margin: 0;
+    }
+
+    .about {
+        padding: 40px 0;
+    }
+
+    .about__header {
+        font-size: 20px;
+    }
+
+    .nav__button {
+        display: flex;
+    }
+
+    .main {
+        height: 30vh;
+        padding: 10px 0;
+    }
+
+    .main__header {
+        width: 70%;
+        text-align: center;
+        font-size: 20px;
+        margin-bottom: 20px;
+    }
+
+    .main__text {
+        width: 90%;
+        text-align: center;
+        font-size: 15px;
+        margin: 0;
+    }
+
+    .main__button {
+        width: 100px;
+    }
+
+
+    .about__border_father {
+        flex-wrap: wrap;
+        height: 80%;
+    }
+
+    .about__border_header {
+        height: 10%;
+    }
+
+    .about__border_info {
+        width: 100px;
+        margin-left: 12px;
+    }
+
+
+    .about__border_info-block {
+        height: 70px;
+        width: 70px;
+        border-radius: 10px;
+
+    }
+
+    .about__border_header {
+        font-size: 10px;
+        font-style: italic;
+    }
+
+
+    .circles {
+        flex-wrap: wrap;
+    }
+
+    .circle__block {
+        width: 33.3%;
+        margin-left: 20px;
+    }
+
+    .circle__block:nth-child(3) {
+        margin-top: 40px;
+    }
+
+    .circle__block_circle {
+        width: 50px;
+        height: 50px;
+    }
+
+    .circle__block_text {
+        width: 100px;
+        font-size: 12px;
+        margin-top: 20px;
+        font-style: italic;
+        text-align: center;
+
+    }
+
+    .card__block {
+        width: 90%;
+
+    }
+
+    .card__block_underBlock {
+        font-size: 20px;
+        font-style: italic;
+    }
+
+    .card__text {
+        font-size: 15px;
+        font-style: italic;
+    }
+
+    .card__card {
+        width: 100%;
+    }
+
+    .card__footer_left {
+        width: 70px;
+    }
+
+    .double__left_header {
+        font-size: 15px;
+
+    }
+
+    .double__left_main {
+        font-size: 10px;
+
+
+    }
+
+    .double__left {
+        padding: 30px 10px;
+
+    }
+
+    .double__button {
+        margin-bottom: 0;
+    }
+
+}
